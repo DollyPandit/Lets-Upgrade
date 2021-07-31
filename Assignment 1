@@ -1,0 +1,4 @@
+numbers = [1,3,4,2]
+#Sorting list of Integers in ascending
+number.sort()
+print(numbers)
